@@ -6,7 +6,10 @@ import io.cucumber.java.en.When;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class BuyStepdefs {
+/**
+ * @author Pawat Puttimit 6410406827
+ */
+public class BuyStepDefs {
 
     private ProductCatalog catalog;
     private Order order;
